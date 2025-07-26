@@ -1,0 +1,22 @@
+document.write(`
+  <a id="GameObject:ChangePosition" class="fn" href="../GameObject/ChangePosition.html">ChangePosition</a>
+  <a id="GameObject:Despawn" class="fn" href="../GameObject/Despawn.html">Despawn</a>
+  <a id="GameObject:GetDBTableGUIDLow" class="fn" href="../GameObject/GetDBTableGUIDLow.html">GetDBTableGUIDLow</a>
+  <a id="GameObject:GetDisplayId" class="fn" href="../GameObject/GetDisplayId.html">GetDisplayId</a>
+  <a id="GameObject:GetGoState" class="fn" href="../GameObject/GetGoState.html">GetGoState</a>
+  <a id="GameObject:GetLootState" class="fn" href="../GameObject/GetLootState.html">GetLootState</a>
+  <a id="GameObject:HasQuest" class="fn" href="../GameObject/HasQuest.html">HasQuest</a>
+  <a id="GameObject:IsActive" class="fn" href="../GameObject/IsActive.html">IsActive</a>
+  <a id="GameObject:IsDestructible" class="fn" href="../GameObject/IsDestructible.html">IsDestructible</a>
+  <a id="GameObject:IsSpawned" class="fn" href="../GameObject/IsSpawned.html">IsSpawned</a>
+  <a id="GameObject:IsTransport" class="fn" href="../GameObject/IsTransport.html">IsTransport</a>
+  <a id="GameObject:RemoveFromWorld" class="fn" href="../GameObject/RemoveFromWorld.html">RemoveFromWorld</a>
+  <a id="GameObject:Respawn" class="fn" href="../GameObject/Respawn.html">Respawn</a>
+  <a id="GameObject:SaveToDB" class="fn" href="../GameObject/SaveToDB.html">SaveToDB</a>
+  <a id="GameObject:SetGoState" class="fn" href="../GameObject/SetGoState.html">SetGoState</a>
+  <a id="GameObject:SetLootState" class="fn" href="../GameObject/SetLootState.html">SetLootState</a>
+  <a id="GameObject:SetRespawnTime" class="fn" href="../GameObject/SetRespawnTime.html">SetRespawnTime</a>
+  <a id="GameObject:SetSpawnedByDefault" class="fn" href="../GameObject/SetSpawnedByDefault.html">SetSpawnedByDefault</a>
+  <a id="GameObject:Turn" class="fn" href="../GameObject/Turn.html">Turn</a>
+  <a id="GameObject:UseDoorOrButton" class="fn" href="../GameObject/UseDoorOrButton.html">UseDoorOrButton</a>
+`);
